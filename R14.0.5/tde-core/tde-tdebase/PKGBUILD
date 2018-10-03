@@ -62,7 +62,7 @@ source=("http://mirror.ppa.trinitydesktop.org/trinity/releases/R${pkgver}/tdebas
 	'rpcfix.patch'
 	'stat.patch')
 
-md5sums=('SKIP'
+md5sums=('aed6cd45278faa17b9a448b34cbb5127'
          '2dac928c6177b9fa0f4e751d7dddc62e'
          '81eb97f16b66a2152e592358727a30c7'
          '18e8d01124b19f7df2937c06e177bf7f'

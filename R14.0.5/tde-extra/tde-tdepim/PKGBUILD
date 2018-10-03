@@ -15,7 +15,7 @@ provides=('tdepim')
 replaces=('trinity-tdepim')
 options=('staticlibs' 'libtool' '!strip')
 source=("http://mirror.ppa.trinitydesktop.org/trinity/releases/R${pkgver}/tdepim-R${pkgver}.tar.bz2")
-md5sums=('SKIP')
+md5sums=('0dfd3561ff0ffc440fc9ead221021333')
 
 build() {
   msg "Setting PATH, CMAKE and Trinity Environment variables"

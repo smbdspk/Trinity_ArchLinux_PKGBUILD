@@ -18,7 +18,7 @@ replaces=('trinity-libcaldav')
 options=('staticlibs' 'libtool' '!strip')
 install=
 source=("http://mirror.ppa.trinitydesktop.org/trinity/releases/R${pkgver}/dependencies/libcaldav-R${pkgver}.tar.bz2")
-md5sums=('SKIP')
+md5sums=('e834fe3095d2c58f68fceebb5235aac2')
 
 build() {
 

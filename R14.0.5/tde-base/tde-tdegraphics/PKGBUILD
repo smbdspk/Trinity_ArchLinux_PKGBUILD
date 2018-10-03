@@ -16,7 +16,7 @@ conflicts=('trinity-tdegraphics' 'trinity-kdegraphics')
 replaces=('trinity-tdegraphics')
 options=('staticlibs' 'libtool' '!strip')
 source=("http://mirror.ppa.trinitydesktop.org/trinity/releases/R${pkgver}/tdegraphics-R${pkgver}.tar.bz2")
-md5sums=('SKIP')
+md5sums=('6edfbe368abb5530cacc9f610e385f55')
 # install=''
 
 build() {

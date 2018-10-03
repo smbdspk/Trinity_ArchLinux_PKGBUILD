@@ -16,7 +16,7 @@ makedepends=('pkgconfig' 'cmake')
 #replaces=('gtk-qt-engine')
 options=('staticlibs' 'libtool' '!strip')
 source=("http://mirror.ppa.trinitydesktop.org/trinity/releases/R${pkgver}/applications/gtk-qt-engine-R${pkgver}.tar.bz2")
-md5sums=('SKIP')
+md5sums=('31777d53a3b6e79e416306427e908a89')
 # install=''
 
 build() {

@@ -19,3 +19,4 @@ requests to fix them.
 
 1. tde-amarok
 2. tde-gtk3-tqt-engine
+3. tde-systemsettings

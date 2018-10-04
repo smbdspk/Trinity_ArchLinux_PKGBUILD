@@ -1,7 +1,7 @@
-Index: b/kmultimedia/kscd/kcompactdisc.cpp
+Index: b/tdemultimedia/kscd/kcompactdisc.cpp
 ===================================================================
---- b/kmultimedia/kscd/kcompactdisc.cpp		2018-08-25 08:29:23.000000000 +0300
-+++ a/kmultimedia/kscd/kcompactdisc.cpp 	2018-10-03 16:07:51.483332284 +0300
+--- b/tdemultimedia/kscd/kcompactdisc.cpp		2018-08-25 08:29:23.000000000 +0300
++++ a/tdemultimedia/kscd/kcompactdisc.cpp	 	2018-10-03 16:07:51.483332284 +0300
 @@ -42,11 +42,6 @@
  #include <fcntl.h>
  #include <sys/ioctl.h>

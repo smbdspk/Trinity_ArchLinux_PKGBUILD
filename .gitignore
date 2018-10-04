@@ -5,3 +5,4 @@
 */*/*/*.pkg.tar.xz
 */*/*/*.sig
 *~
+.DS_Store
